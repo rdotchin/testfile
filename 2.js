@@ -1,4 +1,4 @@
 function test() {
-var a = "foo";
-var b = "bar";
+      var a = "foo";
+      var b = "bar";
 }
